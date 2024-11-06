@@ -1,0 +1,1 @@
+This is a repository for students of History 420R: Digital Approaches to Ancient Rome to host materials that cannot be used directly with ArcGIS storymaps. Upload your materials using git, then make a link for them that you can add to the final site for the class.
